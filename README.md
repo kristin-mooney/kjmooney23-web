@@ -43,4 +43,4 @@ Analysis of 3.4M grocery orders across 200K+ customers. Uncovers peak demand win
 ## 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kristin--mooney.github.io-blue?style=flat&logo=github)](https://kristin-mooney.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kristin%20Mooney-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kristin-mooney/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kristin%20Mooney-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kristinmooney/)
