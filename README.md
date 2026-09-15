@@ -1,8 +1,8 @@
 # Hi, I'm Kristin Mooney 👋
 
-**Senior Data Analyst | SQL · Tableau · Power BI**
+**Senior Data Analyst | SQL · Power BI · Tableau**
 
-I love the challenge of turning raw data into clear, actionable insights.
+I build end-to-end analytical solutions that transform complex data into actionable business decisions — combining data engineering, audit design, root cause analysis, and executive reporting.
 
 ---
 
@@ -10,13 +10,27 @@ I love the challenge of turning raw data into clear, actionable insights.
 
 | Category | Tools |
 |---|---|
-| **Query & Modeling** | SQL · dbt |
-| **Visualization** | Tableau · Power BI |
+| **Query & Modeling** | SQL Server · dbt · Stored Procedures · SSIS |
+| **Visualization** | Power BI · Tableau |
+| **Analytics** | Data Reconciliation · Root Cause Analysis · Risk Assessment |
 | **Productivity** | Excel · GitHub |
 
 ---
 
 ## 📂 Featured Projects
+
+### 🚀 Telecom Component Audit Framework
+*Root Cause Analysis · Risk Prioritization · Power BI · SQL Server*
+
+Designed and implemented an end-to-end telecommunications audit framework that reconciles component records across multiple downstream systems, identifies root causes, evaluates billing accuracy, quantifies customer and revenue impact, and prioritizes remediation through risk-based analytics.
+
+The solution combines cross-system reconciliation, billing validation, reject analysis, risk assessment, and executive reporting into a scalable monitoring framework used to identify high-impact operational issues.
+
+**Tools:** SQL Server · Stored Procedures · Power BI · Data Reconciliation · Root Cause Analysis
+
+[View Project](https://kristin-mooney.github.io/telecom-component-audit-framework/) · [View SQL](https://kristin-mooney.github.io/telecom-component-audit-framework-sql/)
+
+---
 
 ### 🌐 Colorado's Broadband Opportunity
 *Landscape, Competition & Expansion Strategy*
