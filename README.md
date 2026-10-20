@@ -1,4 +1,4 @@
-# Hi, I'm Kristin Mooney 👋
+# Hi, I'm Kristin Mooney 
 
 **Senior Data Analyst | SQL · Power BI · Tableau**
 
@@ -6,7 +6,7 @@ I build end-to-end analytical solutions that transform complex data into actiona
 
 ---
 
-## 🛠 Skills
+## Skills
 
 | Category | Tools |
 |---|---|
@@ -17,9 +17,9 @@ I build end-to-end analytical solutions that transform complex data into actiona
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🚀 Telecom Component Audit Framework
+### Telecom Component Audit Framework
 *Root Cause Analysis · Risk Prioritization · Power BI · SQL Server*
 
 Designed and implemented an end-to-end telecommunications audit framework that reconciles component records across multiple downstream systems, identifies root causes, evaluates billing accuracy, quantifies customer and revenue impact, and prioritizes remediation through risk-based analytics.
@@ -33,7 +33,7 @@ The solution combines cross-system reconciliation, billing validation, reject an
 
 ---
 
-### 🌐 Colorado's Broadband Opportunity
+### Colorado's Broadband Opportunity
 *Landscape, Competition & Expansion Strategy*
 
 End-to-end analysis of Colorado's broadband market using FCC Broadband Data across 2.7M locations. Explores Cable vs. Fiber competition, identifies expansion targets, and models churn risk.
@@ -45,7 +45,7 @@ End-to-end analysis of Colorado's broadband market using FCC Broadband Data acro
 
 ---
 
-### 🛒 Instacart Shopper Behavior Analysis
+### Instacart Shopper Behavior Analysis
 *When, What & Who*
 
 Analysis of 3.4M grocery orders across 200K+ customers. Uncovers peak demand windows, high-loyalty product categories, and customer segments using RFM scoring.
@@ -57,7 +57,7 @@ Analysis of 3.4M grocery orders across 200K+ customers. Uncovers peak demand win
 
 ---
 
-### ⚽ International Women's Soccer: A Data Story
+### International Women's Soccer: A Data Story
 
 *Growth, Competition & Team Performance (1991–2026)*
 
