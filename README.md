@@ -2,7 +2,7 @@
 
 **Senior Data Analyst | SQL · Power BI · Tableau**
 
-I build end-to-end analytical solutions that transform complex data into actionable business decisions — combining data engineering, audit design, root cause analysis, and executive reporting.
+Builds end-to-end analytical solutions that transform complex data into actionable business decisions — combining data engineering, audit design, root cause analysis, and executive reporting.
 
 ---
 
