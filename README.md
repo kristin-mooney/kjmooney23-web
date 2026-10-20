@@ -28,7 +28,8 @@ The solution combines cross-system reconciliation, billing validation, reject an
 
 **Tools:** SQL Server · Stored Procedures · Power BI · Data Reconciliation · Root Cause Analysis
 
-[View Project](https://kristin-mooney.github.io/telecom-component-audit-framework/) · [View SQL](https://kristin-mooney.github.io/telecom-component-audit-framework-sql/)
+[View Project](https://kristin-mooney.github.io/telecom-component-audit-framework/) · [View SQL](https://kristin-mooney.github.io/telecom-component-audit-framework-sql/) · [View on GitHub](https://github.com/kristin-mooney/telecom-component-audit)
+
 
 ---
 
@@ -39,7 +40,8 @@ End-to-end analysis of Colorado's broadband market using FCC Broadband Data acro
 
 **Tools:** SQL · Tableau
 
-[View Project](https://kristin-mooney.github.io/colorado-broadband/) · [View Tableau Dashboard](https://public.tableau.com/app/profile/kristin.mooney/viz/TableauFiberAnalysis/ColoradosBroadbandOpportunity)
+[View Project](https://kristin-mooney.github.io/colorado-broadband/) · [View Tableau Dashboard](https://public.tableau.com/app/profile/kristin.mooney/viz/TableauFiberAnalysis/ColoradosBroadbandOpportunity) · [View on GitHub](https://github.com/kristin-mooney/colorado-broadband-analysis)
+
 
 ---
 
@@ -50,7 +52,8 @@ Analysis of 3.4M grocery orders across 200K+ customers. Uncovers peak demand win
 
 **Tools:** dbt · SQL · Tableau
 
-[View Project](https://kristin-mooney.github.io/instacart-analytics/) · [View Tableau Dashboard](https://public.tableau.com/app/profile/kristin.mooney/viz/InstacartAnalyticsProject/UnderstandingInstacartShopperBehavior)
+[View Project](https://kristin-mooney.github.io/instacart-analytics/) · [View Tableau Dashboard](https://public.tableau.com/app/profile/kristin.mooney/viz/InstacartAnalyticsProject/UnderstandingInstacartShopperBehavior) · [View on GitHub](https://github.com/kristin-mooney/instacart-shopper-analysis)
+
 
 ---
 
