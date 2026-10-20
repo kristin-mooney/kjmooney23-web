@@ -54,6 +54,20 @@ Analysis of 3.4M grocery orders across 200K+ customers. Uncovers peak demand win
 
 ---
 
+### ⚽ International Women's Soccer: A Data Story
+
+*Growth, Competition & Team Performance (1991–2026)*
+
+From 25 nations in 1991 to 200+ in 2025, this three-part Tableau story explores 35 years of international women's soccer — analyzing global growth, scoring trends, home field advantage, and team KPI performance across 6,966 matches. The USA leads with an 80% win rate, but the gap is closing.
+
+**Tools:** Tableau
+
+[View Project](https://github.com/kristin-mooney/women-soccer-analysis) · [View Tableau Dashboard](https://public.tableau.com/app/profile/kristin.mooney/viz/WomensSoccerAnalysis/InternationalWomensSoccerADataStory19912026)
+
+---
+
+
+
 ## 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kristin--mooney.github.io-blue?style=flat&logo=github)](https://kristin-mooney.github.io)
