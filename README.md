@@ -1,4 +1,4 @@
-# Hi, I'm Kristin Mooney 
+# Kristin Mooney 
 
 **Senior Data Analyst | SQL · Power BI · Tableau**
 
