@@ -1,75 +1,87 @@
-# Kristin Mooney 
+# Kristin Mooney
 
-**Senior Data Analyst | SQL · Power BI · Tableau**
+**Senior Business Intelligence & Analytics Professional**
 
-Builds end-to-end analytical solutions that transform complex data into actionable business decisions — combining data engineering, audit design, root cause analysis, and executive reporting.
+I turn messy, multi-system data and ambiguous business problems into practical solutions that work.
+
+My work spans SQL development, data preparation, audit automation, root cause analysis, KPI development, and visualization. I especially enjoy problems that require understanding how systems and processes connect, finding what isn't working, and building something better.
+
+**My approach: learn the business, understand the data, find the opportunity, and build something better.**
 
 ---
 
 ## Skills
 
-| Category | Tools |
+| Category | Tools & Capabilities |
 |---|---|
-| **Query & Modeling** | SQL Server · dbt · Stored Procedures · SSIS |
-| **Visualization** | Power BI · Tableau |
-| **Analytics** | Data Reconciliation · Root Cause Analysis · Risk Assessment |
-| **Productivity** | Excel · GitHub |
+| **SQL & Data** | SQL Server · Stored Procedures · SSIS · dbt |
+| **Business Intelligence** | Power BI · Tableau · KPI Development · Executive Reporting |
+| **Analytics & Controls** | Data Reconciliation · Audit Design · Root Cause Analysis · Risk Assessment |
+| **Tools** | Excel · GitHub |
 
 ---
 
 ## Featured Projects
 
 ### Telecom Component Audit Framework
-*Root Cause Analysis · Risk Prioritization · Power BI · SQL Server*
 
-Designed and implemented an end-to-end telecommunications audit framework that reconciles component records across multiple downstream systems, identifies root causes, evaluates billing accuracy, quantifies customer and revenue impact, and prioritizes remediation through risk-based analytics.
+*Finding operational and revenue risk hidden across disconnected systems*
 
-The solution combines cross-system reconciliation, billing validation, reject analysis, risk assessment, and executive reporting into a scalable monitoring framework used to identify high-impact operational issues.
+Designed an end-to-end audit framework that reconciles component records across multiple downstream systems to identify discrepancies, isolate root causes, quantify customer and revenue impact, and prioritize remediation.
+
+The solution combines SQL-based reconciliation, billing validation, reject analysis, risk assessment, and Power BI reporting into a scalable monitoring framework that transforms raw exceptions into actionable business intelligence.
 
 **Tools:** SQL Server · Stored Procedures · Power BI · Data Reconciliation · Root Cause Analysis
 
 [View Project](https://kristin-mooney.github.io/telecom-component-audit-framework/) · [View SQL](https://kristin-mooney.github.io/telecom-component-audit-framework-sql/) · [View on GitHub](https://github.com/kristin-mooney/telecom-component-audit)
 
-
 ---
 
 ### Colorado's Broadband Opportunity
-*Landscape, Competition & Expansion Strategy*
 
-End-to-end analysis of Colorado's broadband market using FCC Broadband Data across 2.7M locations. Explores Cable vs. Fiber competition, identifies expansion targets, and models churn risk.
+*Finding where broadband competition creates opportunities for fiber expansion*
+
+Analyzed FCC broadband data across 2.7M Colorado locations to understand the competitive landscape, compare cable and fiber availability, identify potential expansion markets, and explore churn risk.
+
+The project turns large-scale infrastructure data into a market opportunity story, using SQL analysis and Tableau visualization to move from geographic coverage to actionable expansion insights.
 
 **Tools:** SQL · Tableau
 
 [View Project](https://kristin-mooney.github.io/colorado-broadband/) · [View Tableau Dashboard](https://public.tableau.com/app/profile/kristin.mooney/viz/TableauFiberAnalysis/ColoradosBroadbandOpportunity) · [View on GitHub](https://github.com/kristin-mooney/colorado-broadband-analysis)
 
-
 ---
 
 ### Instacart Shopper Behavior Analysis
-*When, What & Who*
 
-Analysis of 3.4M grocery orders across 200K+ customers. Uncovers peak demand windows, high-loyalty product categories, and customer segments using RFM scoring.
+*Turning millions of transactions into a clearer picture of customer behavior*
+
+Analyzed 3.4M grocery orders across 200K+ customers to understand when customers shop, what they repeatedly purchase, and how shopping behavior differs across customer groups.
+
+The analysis surfaces peak demand windows, high-loyalty product categories, and customer segments, translating transactional data into practical customer and commercial insights.
 
 **Tools:** dbt · SQL · Tableau
 
 [View Project](https://kristin-mooney.github.io/instacart-analytics/) · [View Tableau Dashboard](https://public.tableau.com/app/profile/kristin.mooney/viz/InstacartAnalyticsProject/UnderstandingInstacartShopperBehavior) · [View on GitHub](https://github.com/kristin-mooney/instacart-shopper-analysis)
 
-
 ---
 
 ### International Women's Soccer: A Data Story
 
-*Growth, Competition & Team Performance (1991–2026)*
+*Exploring how the international game has grown and how competitive performance is changing*
 
-From 25 nations in 1991 to 200+ in 2025, this three-part Tableau story explores 35 years of international women's soccer — analyzing global growth, scoring trends, home field advantage, and team KPI performance across 6,966 matches. The USA leads with an 80% win rate, but the gap is closing.
+Analyzed 6,966 international matches to explore the growth of the women's game from 1991 through 2026, changing scoring patterns, home-field performance, and differences in team KPIs.
 
-**Tools:** Tableau
+The three-part Tableau story moves from global participation to match trends and team-level performance, using visualization to turn decades of results into an accessible narrative about how the sport has evolved.
 
-[View Project](https://github.com/kristin-mooney/women-soccer-analysis) · [View Tableau Dashboard](https://public.tableau.com/app/profile/kristin.mooney/viz/WomensSoccerAnalysis/InternationalWomensSoccerADataStory19912026)
+**Tools:** Tableau · Data Analysis · Data Storytelling
+
+[View Project on GitHub](https://github.com/kristin-mooney/women-soccer-analysis) · [View Tableau Dashboard](https://public.tableau.com/app/profile/kristin.mooney/viz/WomensSoccerAnalysis/InternationalWomensSoccerADataStory19912026)
 
 ---
 
+## Connect With Me
 
+[Portfolio](https://kristin-mooney.github.io/) · [LinkedIn](https://www.linkedin.com/in/kristinmooney/)
 
 ## 🔗 Connect With Me
 
